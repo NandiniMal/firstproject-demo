@@ -1,4 +1,4 @@
 # firstproject-demo
 My first Project
 <br>
-Author-Nandini Mal
+Author-Nandini (nandini)
